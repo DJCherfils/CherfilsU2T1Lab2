@@ -9,8 +9,9 @@ public class CircleRunner {
         circle1.printArea();
 
         // C. BEFORE running this code, PREDICT what gets printed
-        // I predict that 78.54 will pritnt sine itsthe are
+        // I predict that 78.54 will print since that is the area
 
         // D. run the code and confirm your prediction! Were you correct?
+        //I was correct
     }
 }
